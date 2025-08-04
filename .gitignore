@@ -1,0 +1,16 @@
+
+*.db
+
+*.db-shm
+
+*.db-wal
+
+backend/Reglemento.Backend/.vs/Reglemento.Backend/FileContentIndex/
+
+backend/Reglemento.Backend/.vs/Reglemento.Backend/v17/
+
+backend/Reglemento.Backend/Reglemento.Backend/obj/Debug/net9.0/
+
+backend/Reglemento.Backend/Reglemento.Backend/obj/
+
+frontend/reglemento-frontend/.vscode/
