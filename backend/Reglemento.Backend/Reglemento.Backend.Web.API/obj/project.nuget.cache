@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E8AAU3XXR+w=",
+  "success": true,
+  "projectFilePath": "D:\\repository\\reglemento\\backend\\Reglemento.Backend\\Reglemento.Backend.Web.API\\Reglemento.Backend.Web.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

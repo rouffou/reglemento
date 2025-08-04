@@ -1,0 +1,6 @@
+@Reglemento.Backend.Web.API_HostAddress = http://localhost:5183
+
+GET {{Reglemento.Backend.Web.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
