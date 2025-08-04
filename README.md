@@ -73,12 +73,18 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
+---
+
 ## 🌐 API Documentation
 - Backend API (.NET): Swagger available at /swagger
 - Scraper Service (FastAPI): Swagger UI at /docs
 
+---
+
 ## 🗂️ Documentation
 All technical documentation, C4 diagrams, database schemas, and architecture decisions are located in the /docs folder. The documentation is written in LaTeX and exported in PDF.
+
+---
 
 ## 🤝 Contributing
 Contributions are welcome! Please open issues for bugs, feature requests, or improvements.
@@ -87,8 +93,12 @@ Contributions are welcome! Please open issues for bugs, feature requests, or imp
 3) Commit changes
 4) Open a Pull Request 🚀
 
+---
+
 ## 📄 License
 This project is licensed under the MIT License.
+
+---
 
 ## 💡 Vision
 Reglemento aims to simplify compliance processes for small businesses by offering an affordable and user-friendly regulatory monitoring solution.
