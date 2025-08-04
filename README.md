@@ -29,9 +29,13 @@
 ## 📂 Project Structure
 
 /frontend -> Angular Web Application
+
 /backend -> .NET 8 API Services
+
 /scraper-service -> Python FastAPI microservice for scraping
+
 /infra -> CI/CD pipelines & deployment configurations
+
 /docs -> Documentation (LaTeX, C4 Diagrams, Data Schemas)
 
 
